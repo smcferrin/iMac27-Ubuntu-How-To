@@ -1,4 +1,4 @@
-# Getting an iMac 27 Retina Running Ubuntu 20.04.1 LTS
+# Running Ubuntu 20.04.1 LTS on an iMac 27 Retina 
 
 This document was written for a late 2012 Retina 27" iMac that I moved to linux due to a hardware instability with Mac OS. 
 
