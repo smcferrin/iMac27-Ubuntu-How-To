@@ -1,5 +1,7 @@
 # Getting an iMac 27 Retina Running Ubuntu 20.04.1 LTS
 
+This document was written for a late 2012 Retina 27" iMac that I moved to linux due to a hardware instability with Mac OS. 
+
 ### Mouse
 Mousewheel 
 
