@@ -40,3 +40,23 @@ Unmute the Headphone jack and set the sound levels.
 
 https://help.ubuntu.com/community/MactelSupportTeam/AppleiSight?action=show&redirect=AppleiSight
 
+
+## Remap Keyboar for Mac Keyboard 
+
+From the Ubuntu Forums - 
+https://askubuntu.com/questions/131900/how-do-i-switch-the-command-key-and-control-key-on-a-macbook-pro
+
+Install Tweak Tool (This is the name of the app in your app list.)
+   
+    sudo apt install gnome-tweak-tool
+
+Launch Tweak Tool 
+
+1. First swap the dashboard hotkey to the right side and then under "Additional Layout Options" 
+you can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
+
+![Super](./images/right_super.png)
+
+2. You can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
+
+![Layout](./images/layout.png)
