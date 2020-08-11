@@ -1,4 +1,4 @@
-# Getting an iMac 27 Retina Running Ubuntu 20.04.1 LTS
+# Running Ubuntu 20.04.1 LTS on an iMac 27 Retina 
 
 This document was written for a late 2012 Retina 27" iMac that I moved to linux due to a hardware instability with Mac OS. 
 
@@ -62,6 +62,7 @@ you can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
 2. You can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
 
 ![Layout](./images/layout.png)
+<<<<<<< HEAD
 
 ### Trackpad 
 
@@ -74,3 +75,5 @@ https://www.youtube.com/watch?v=ArBCfhVsTZw
 https://github.com/rohitpid/Linux-Magic-Trackpad-2-Driver
 
 
+=======
+>>>>>>> 930717f8ad402c8ab7128f7f4c8510aa8cc2c631
