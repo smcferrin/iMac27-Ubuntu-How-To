@@ -62,3 +62,15 @@ you can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
 2. You can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
 
 ![Layout](./images/layout.png)
+
+### Trackpad 
+
+#### Gestures 
+
+https://www.youtube.com/watch?v=ArBCfhVsTZw
+
+#### Driver
+
+https://github.com/rohitpid/Linux-Magic-Trackpad-2-Driver
+
+
