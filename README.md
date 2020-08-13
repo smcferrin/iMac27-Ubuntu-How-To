@@ -43,7 +43,7 @@ Unmute the Headphone jack and set the sound levels.
 https://help.ubuntu.com/community/MactelSupportTeam/AppleiSight?action=show&redirect=AppleiSight
 
 
-## Remap Keyboar for Mac Keyboard 
+# Remap Keyboar for Mac Keyboard 
 
 From the Ubuntu Forums - 
 https://askubuntu.com/questions/131900/how-do-i-switch-the-command-key-and-control-key-on-a-macbook-pro
@@ -62,18 +62,32 @@ you can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
 2. You can use "Ctrl position/ Swap Left Win with Left Ctrl" to good effect.
 
 ![Layout](./images/layout.png)
-<<<<<<< HEAD
 
-### Trackpad 
+# Mapping Super (Command/Windows) key to clt. 
+For Ubuntu Bungie I had to remap the super key. 
 
-#### Gestures 
+Binding Super to Ctrl
+What about binding your left Windows/Logo/Super key to act as another Ctrl key?
 
-https://www.youtube.com/watch?v=ArBCfhVsTZw
+You can achieve that with the following xmodmap commands:
 
-#### Driver
+    remove mod4 = Super_L
+    keysym Super_L = Control_L
+    add Control = Control_L
 
-https://github.com/rohitpid/Linux-Magic-Trackpad-2-Driver
+Assuming you saved the above lines as super_as_ctrl.xmodmap you can test out the effect by executing
+
+    xmodmap super_as_ctrl.xmodmap
+
+To make the change permanent (surviving re-login/reboot) rename the file to .Xmodmap in your home folder.
 
 
-=======
->>>>>>> 930717f8ad402c8ab7128f7f4c8510aa8cc2c631
+# GTK3 Theme and icons 
+
+Icons Cupertino-BigSur.tar.xz
+
+https://www.gnome-look.org/p/1102582/startdownload?file_id=1594922295&file_name=Cupertino-BigSur.tar.xz&file_type=application/x-xz&file_size=35608344
+
+Theme 
+
+https://www.gnome-look.org/p/1275087/startdownload?file_id=1595596874&file_name=Mojave-dark.tar.xz&file_type=application/x-xz&file_size=561024
