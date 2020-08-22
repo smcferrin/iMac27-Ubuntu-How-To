@@ -20,6 +20,10 @@ Then
 
 Finally add imwheel in ubuntu startup application.
 
+Here is another take on Magic Mouse setup on Linux.
+
+http://sneclacson.blogspot.com/2016/09/using-apple-magic-mouse-with-ubuntu-1604.html
+
 ### Sound 
 
 in 
